@@ -1,0 +1,15 @@
+<users.User>
+  <name>Tucker</name>
+  <preferences>
+    <voice>kevin</voice>
+    <speed>130</speed>
+    <speedLevel>3</speedLevel>
+    <theme>DEFAULT</theme>
+    <themeLevel>0</themeLevel>
+    <fontSize>40</fontSize>
+    <fontLevel>1</fontLevel>
+    <volume>1.0</volume>
+    <volumeLevel>8</volumeLevel>
+  </preferences>
+  <id>1547337298</id>
+</users.User>

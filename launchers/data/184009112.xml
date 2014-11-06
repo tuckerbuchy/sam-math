@@ -1,0 +1,15 @@
+<users.User>
+  <name>tTerry</name>
+  <preferences>
+    <voice>kevin</voice>
+    <speed>150</speed>
+    <speedLevel>5</speedLevel>
+    <theme>ORANGE_SPOT</theme>
+    <themeLevel>0</themeLevel>
+    <fontSize>100</fontSize>
+    <fontLevel>3</fontLevel>
+    <volume>1.0</volume>
+    <volumeLevel>8</volumeLevel>
+  </preferences>
+  <id>184009112</id>
+</users.User>
